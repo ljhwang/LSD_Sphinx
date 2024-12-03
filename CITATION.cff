@@ -10,7 +10,7 @@ type: software
 authors:
   - given-names: Lorraine
     family-names: Hwang
-    email: ljhwagn@ucdavis.edu
+    email: ljhwang@ucdavis.edu
     orcid: 'https://orcid.org/0000-0002-1021-3101'
 repository-code: 'https://github.com/ljhwang/LSD'
 keywords:
