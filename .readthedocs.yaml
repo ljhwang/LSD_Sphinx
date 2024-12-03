@@ -10,7 +10,7 @@ build:
 
 # Build documentation in the root directory with Sphinx
 sphinx:
-  configuration: ./doc/sphinx/source/conf.py
+  configuration: docs/source/conf.py
   fail_on_warning: true
 
 # Optionally, but recommended,
