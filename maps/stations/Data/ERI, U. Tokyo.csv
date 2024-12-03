@@ -1,0 +1,9 @@
+symbol_color
+#00619b
+organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
+"ERI, U. Tokyo",KKW,Kainokawa,33.8987,135.4418,19640202,19820405,UD,paper,tiff,http://wwweic.eri.u-tokyo.ac.jp/wakayama/
+"ERI, U. Tokyo",KMN,Kumano,33.9677,136.0582,19660613,19820705,UD,paper,tiff,http://wwweic.eri.u-tokyo.ac.jp/wakayama/
+"ERI, U. Tokyo",OIS,Oishiyama,34.1053,135.3273,19660107,19740530,UD,paper,tiff,http://wwweic.eri.u-tokyo.ac.jp/wakayama/
+"ERI, U. Tokyo",SRT,Sarutani,34.1761,135.7450,19640401,19820630,UD,paper,tiff,http://wwweic.eri.u-tokyo.ac.jp/wakayama/
+"ERI, U. Tokyo",INA,Iinan,34.4463,136.3748,19640401,19700717,UD,paper,tiff,http://wwweic.eri.u-tokyo.ac.jp/wakayama/
+"ERI, U. Tokyo",SKW,Shichikawa,33.5880,135.6902,19640415,19690628,UD,paper,tiff,http://wwweic.eri.u-tokyo.ac.jp/wakayama/

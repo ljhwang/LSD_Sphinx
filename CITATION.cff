@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Legacy Seismic Data
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Lorraine
+    family-names: Hwang
+    email: ljhwagn@ucdavis.edu
+    orcid: 'https://orcid.org/0000-0002-1021-3101'
+repository-code: 'https://github.com/ljhwang/LSD'
+keywords:
+  - legacy seismic data
+license: GPL-3.0-or-later
