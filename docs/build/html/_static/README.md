@@ -1,0 +1,1 @@
+Maps are currently hand copied from the /maps folder for use.  These were generated awhile ago and some are not working.
