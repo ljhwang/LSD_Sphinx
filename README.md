@@ -1,5 +1,17 @@
 # Legacy Seismic Data
 
+
+<p style="text-align: center;">
+<iframe src="docs/source/_static/background16-9offset.jpg" width="400px" height="100px"></iframe>
+<iframe src="docs/source/touch-icon-192x192.png" width="00px" height="100px"></iframe>
+</p>
+<hr>
+
+<!-->
+![some dummy txt](docs/source/touch-icon-192x192.png)
+![some dummy txt](docs/source/_static/background16-9offset.jpg)
+-->
+
 [View](https://lsd-sphinx.readthedocs.io/en/latest/index.html) this document in readthedocs.
 
 ## Background
