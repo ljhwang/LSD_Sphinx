@@ -1,9 +1,9 @@
+
+<img src="docs/source/touch-icon-192x192.png" width="10%" /> &nbsp;&nbsp;&nbsp;&nbsp; 
 # Legacy Seismic Data
 
-
 <p align="center">
-<img src="docs/source/touch-icon-192x192.png" width="30%" /> &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="docs/source/_static/background16-9offset.jpg" width="65%" />
+<img src="docs/source/_static/background16-9offset.jpg" width="65%" />&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 
 <!--
