@@ -1,5 +1,7 @@
 # Legacy Seismic Data
 
+[View](https://lsd-sphinx.readthedocs.io/en/latest/index.html) this document in readthedocs.
+
 ## Background
 
 The Legacy Seismic Data (LSD) project is an outcome of the [2019 Securing Legacy Seismic Data to Enable Future Discoveries Workshop](https://geodynamics.org/cig/events/calendar/2019-seismic-legacy/). Participants of the workshop identified eight community needs to advance workshop goals (Hwang et al., 2020):
