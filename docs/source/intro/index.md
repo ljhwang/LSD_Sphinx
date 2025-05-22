@@ -1,6 +1,6 @@
 # Introduction
 
-This info was originally under the home page
+This info was originally under the home page.
 
 ```{toctree}
 ---
