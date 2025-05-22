@@ -65,7 +65,13 @@ html_theme_options = {
         
     },
     "home_page_in_toc": True,
-    "primary_sidebar_end": "navbar_end.html"
+    "primary_sidebar_end": "navbar_end.html",
+    "repository_url": "https://github.com/ljhwang/LSD_Sphinx/",
+    "repository_branch": "main",
+    "path_to_docs":"docs/source/",
+    "use_repository_button": True,
+    "use_edit_page_button": True,
+    "use_issues_button": True,
     }
 
 # Add any paths that contain custom static files (such as style sheets) here,
