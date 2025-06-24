@@ -12,7 +12,7 @@ breadcrumb          : true
 
 ![some dummy txt](../../images/puerto_rico.jpg)
 
-# Puerto Rico VQS, SJP, SJP
+# Puerto Rico VQS, SJG, SJP
 The US Coast and Geodetic Survey maintained the earliest magnetic and seismic observatories in the Caribbean.
 The first seismographs in the region were installed in September 1903 at Fort Isabel Segunda on Vieques. The observatory moved to the island of Puerto Rico at the end of 1924.
 
