@@ -30,6 +30,9 @@ See the corresponding [organization](../find_data/organizations/index.md) for mo
 
 See [monitoring](../find_data//index.md) for events related to nuclear testing.
 
+
+
+
 ### Layer Key
 [**SCSN:**](../find_data/organizations/SCSN) M> 3.5 earthquakes recorded by the Southern California Seismographic Network between 1963-1992.
 <br>
@@ -40,6 +43,15 @@ See [monitoring](../find_data//index.md) for events related to nuclear testing.
 
 
 <hr>
+
+### Individual Events
+```{toctree}
+---
+maxdepth: 1
+---
+pinatubo.md
+```
+
 
 ### EuroSeismos
 Not mapped above is the [Earthquake Catalogue](http://storing.ingv.it/es_web/Data/Es_map.html) from the EuroSeismos project with a list of 629 earthquakes from the Euro-Mediterranean region from 1895-1990.
