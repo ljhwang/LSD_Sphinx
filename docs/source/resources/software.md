@@ -23,6 +23,8 @@ DigitSeis is a software written in MATLAB that converts digital, raster images o
 SKATE (Seismogram Kit for Automatic Trace Extraction). SKATE is a web‐based image‐processing program that is hosted on a remote Amazon Web Services (AWS) platform. Its use requires users only to navigate a browser to our user interface (see Data and Resources) to begin running the program. No software installation nor purchasing of software is required, and client computer requirements are minimal because all computationally intensive processing is done on the remote server. *Retriever Technology* <br>
  [[more info](https://doi.org/10.1785/0220180006)][[portal](http://seismo.redfish.com/)][[github](https://github.com/retrievertech)]
 
+ SKATE development has been undertaken by the [BP/SD](https://studieddigitally.org/) team at Northwestern University.
+
 ## Teseo
 Teseo2 (**T**urn the **E**ldest **S**eismograms into the
 **E**lectronic **O**riginal **O**nes) is a software tool for quick and accurate digitization of seismogram traces from raster files. *INGV*<br>
