@@ -56,7 +56,7 @@ paper
 ## Data Availability
 310,000 paper seismograms are stored with Biblioteca Conjunta de Ciencias de la Tierra, UNAM.
 
-The catalog of records with the link to images of seismograms generated in Mexico from the 1900s to date can be accessed online. [[search database](http://132.248.182.16:8991/F/-/?func=find-b-0&local_base=ati01)]
+The catalog of records with the link to images of seismograms generated in Mexico from the 1900s to date can be accessed online. [[search database](http://132.248.182.16:8991/F/-/?func=find-b-0&local_base=ati01)] <!--broken link-->
 
 **no. available** | **format** | **dpi** | **color**
 | :---: | :---: | :---: | :---:
