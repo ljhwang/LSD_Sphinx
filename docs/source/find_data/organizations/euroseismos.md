@@ -55,9 +55,9 @@ Higher resolution images can be requested through the [Seismogram Request 2.0](h
 
 Seismograms are distributed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Use may be restricted depending on the seismic station.
 
-Some station [bulletins](http://storing.ingv.it/es_web/) are also available.
+Some station [bulletins](http://storing.ingv.it/es_web/) are also available.<!-- Note: This link appears to be broken as of August 2025 -->
 
-More information about the EuroSeismos project is available through their [website](http://storing.ingv.it/es_web/).
+More information about the EuroSeismos project is available through their [website](http://storing.ingv.it/es_web/). <!-- Note: This link appears to be broken as of August 2025 -->
 
 INGV has long promoted the historical and cultural heritage of Italian seismology. The TROMOS and SISMOS projects were instrumental in promoting and developing methods for the conservation and preservation in digital formats of this scientific heritage. In addition to scanned seismogram images, INGV has available by request:
  * digital images of historical seismic bulletins
@@ -66,7 +66,7 @@ INGV has long promoted the historical and cultural heritage of Italian seismolog
 
 INGV has also developed [Teseo<sup>2</sup>](http://teseo.rm.ingv.it/) to vectorize seismograms. [[github](https://github.com/INGV/teseo2)]
 
-More information about the TROMOS and SISMOS project is available through their [website](http://sismos.rm.ingv.it/index.php).
+More information about the TROMOS and SISMOS project is available through their [website](http://sismos.rm.ingv.it/index.php). <!-- Note: This link appears to be broken as of August 2025 -->
 
 ## Contact
 For more information about this collection, please contact:
