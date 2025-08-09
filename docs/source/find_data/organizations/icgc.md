@@ -78,13 +78,12 @@ Written documents have also been scanned at 300/400 dpi.
 Each institution is in charge of physical preservation. See also:
 * [Ebre Obesrvatory](https://www.icgc.cat/en/Public-Administration-and-Enterprises/Services/Recorded-earthquakes-and-seismic-information/Seismic-information-and-maps-collections/Ebre-Observatory)
 * [Fabra Observatory](https://www.icgc.cat/en/Public-Administration-and-Enterprises/Services/Recorded-earthquakes-and-seismic-information/Seismic-information-and-maps-collections/Fabra-Observatory)
-* [Seismic Bulletins 1984 - ](https://www.icgc.cat/en/Public-Administration-and-Enterprises/Services/Recorded-earthquakes-and-seismic-information/Seismic-information-and-maps-collections/Seismological-Bulletins)
+* [Seismic Bulletins 1984 - ](https://www.icgc.cat/en/Public-Administration-and-Enterprises/Services/Recorded-earthquakes-and-seismic-information/Seismic-information-and-maps-collections/Seismological-Bulletins)<!--the above three links are broken and the homepage is directed to https://www.icgc.cat/en-->
 
-
-More information about the archive can be found on the ICGC [website](https://www.icgc.cat/en/Public-Administration-and-Enterprises/Services/Recorded-earthquakes-and-seismic-information/Seismic-information-and-maps-collections/Analog-seismograms).
+More information about the archive can be found on the ICGC [website](https://www.icgc.cat/en).<!-- The broken link has been changed to https://www.icgc.cat/en -->
 
 [Download data](https://www.icgc.cat/en/Public-Administration-and-Enterprises/Services/Earthquakes/Seismic-information-and-maps-collections/Analog-seismograms/Search-of-available-analog-seismic-records)
-
+<!-- This is a broken link -->
 ## Contact
 For more information about this collection, please contact:  xarxasismica@icgc.cat
 ## References
