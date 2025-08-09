@@ -43,7 +43,7 @@ The entire analog collection, >100,000 seismograms, is available to interested r
 
 A small subset of global earthquakes are available upon request. These 64 records are 50-100MB tif files. See also [special collection](https://o90014.eos-intl.net/O90014/OPAC/Details/Record.aspx?BibCode=3130132).
 
-Archives of John Carroll University Department of Seismology contain notebooks and earthquake bulletins. These include travel-time tables from the 1930s from James Macelwane. [[more info]](http://ead.ohiolink.edu/xtf-ead/view?docId=ead/OClJC0008.xml;query=;brand=default)
+Archives of John Carroll University Department of Seismology contain notebooks and earthquake bulletins. These include travel-time tables from the 1930s from James Macelwane. [[more info]](http://ead.ohiolink.edu/xtf-ead/view?docId=ead/OClJC0008.xml;query=;brand=default)<!--broken link-->
 
 ## Contact
 For more information about this collection, please contact:
