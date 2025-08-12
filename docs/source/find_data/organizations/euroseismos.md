@@ -19,7 +19,7 @@ The EuroSeismos project's main objectives are to enable the reuse of historical 
 Currently 33 researchers from 29 countries are participating in the project.
 
 ## Stations
-300 seismic stations mostly in the Euro-Mediterranean region from 1895-1990. See also the station [list](http://storing.ingv.it/es_web/).
+300 seismic stations mostly in the Euro-Mediterranean region from 1895-1990. See also the station [list](http://storing.ingv.it/es_web/).<<!--Broken link-->
 
 [Partner countries:](http://storing.ingv.it/es_web/)
 
