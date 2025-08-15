@@ -118,4 +118,4 @@ Additional|
 ||what data do we need for circular seismograms (Ewing-type circular)?|radius and cycle period range|  | Y | |
 --->
 
-Download [[pdf](https://qrto.org/gSMrir)]<!--inactive link-->
+Download [[pdf](https://qrto.org/gSMrir)]
