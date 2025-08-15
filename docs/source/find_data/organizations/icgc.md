@@ -76,14 +76,13 @@ Full resolution seismograms are available upon request.
 Written documents have also been scanned at 300/400 dpi.
 
 Each institution is in charge of physical preservation. See also:
-* [Ebre Obesrvatory](https://www.icgc.cat/en/Public-Administration-and-Enterprises/Services/Recorded-earthquakes-and-seismic-information/Seismic-information-and-maps-collections/Ebre-Observatory)
-* [Fabra Observatory](https://www.icgc.cat/en/Public-Administration-and-Enterprises/Services/Recorded-earthquakes-and-seismic-information/Seismic-information-and-maps-collections/Fabra-Observatory)
-* [Seismic Bulletins 1984 - ](https://www.icgc.cat/en/Public-Administration-and-Enterprises/Services/Recorded-earthquakes-and-seismic-information/Seismic-information-and-maps-collections/Seismological-Bulletins)<!--the above three links are broken and the homepage is directed to https://www.icgc.cat/en-->
+* [Ebre Obesrvatory](https://www.icgc.cat/en/Thematic-areas/Risks-and-emergencies/Earthquakes/Seismic-information-and-maps-collections/Ebre-Observatory/Ebre-seismic-station-EBR/Search-available-analog-seismic-records-EBR-station)
+* [Fabra Observatory](https://www.icgc.cat/en/Thematic-areas/Risks-and-emergencies/Earthquakes/Seismic-information-and-maps-collections/Fabra-Observatory/Seismic-records-Observatori-Fabra/Search-available-analog-seismic-records-FBR-station)
+* [Seismic Bulletins 1984 - ](https://www.icgc.cat/en/Seismological-Bulletins)
 
-More information about the archive can be found on the ICGC [website](https://www.icgc.cat/en).<!-- The broken link has been changed to https://www.icgc.cat/en -->
+More information about the archive can be found on the ICGC [website](https://www.icgc.cat/en/Thematic-areas/Serveis-dalerta/Earthquakes/Seismic-information-and-maps-collections).
 
-[Download data](https://www.icgc.cat/en/Public-Administration-and-Enterprises/Services/Earthquakes/Seismic-information-and-maps-collections/Analog-seismograms/Search-of-available-analog-seismic-records)
-<!-- This is a broken link -->
+[Download data](https://www.icgc.cat/en/Thematic-areas/Risks-and-emergencies/Earthquakes/Seismic-information-and-maps-collections/Analog-seismograms/Search-available-analog-seismic-records)
 ## Contact
 For more information about this collection, please contact:  xarxasismica@icgc.cat
 ## References
