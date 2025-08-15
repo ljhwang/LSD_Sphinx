@@ -44,7 +44,7 @@ thermal paper
 In 2003, data began being recorded and stored digitally. The last helicorder data was recorded in 2006.
 
 ## Data Availability
-Some seismograms have been digitized and can be found through EUROSEISMOS [website](https://storing.ingv.it/es_web/index.htm). <!--broken link update kindly verify-->
+Some seismograms have been digitized and can be found through EUROSEISMOS [website](https://storing.ingv.it/es_web/index.htm). 
 
 Bulletins can be found [online](https://bdigital.sib.uc.pt/republica/UCSIB-A-23-43/globalitems.html).  
 *not verified*
