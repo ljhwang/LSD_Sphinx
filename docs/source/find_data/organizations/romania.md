@@ -53,7 +53,7 @@ The image database contains historical seismograms recorded by Romanian Seismic 
 
 *Select partial records with observable earthquake signals maybe available at higher resolution and/or have been vectorized using [TESEO2](http://teseo.rm.ingv.it/) into SAC format.
 
-The database is linked with the [EuroSeismos Database](http://storing.ingv.it/es_web/). <!--Broken link-->
+The database is linked with the [EuroSeismos Database](https://storing.ingv.it/es_web/index.htm). 
 
 The database (plans to) include(s):
 * [seismic bulletins](http://archive.infp.ro/buletine.php) from 1937-1954
