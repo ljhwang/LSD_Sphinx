@@ -74,8 +74,6 @@ All others: Smoked paper
 
 Records can be viewed and downloaded from the [ADEP website](https://www.adep.jp/) as jpeg2000 files.
 
-<!-- FYI: The old link (http://www.univsusu.adep.or.jp/) appears to be broken—please use the updated URL: https://www.adep.jp/ -->
-
 Higher resolution tiff files  as well as data not you uploaded, can be requested by emailing: [univsusu@adep.or.jp](mailto:univsusu@adep.or.jp)
 
 **station**|**no. available** | **format** | **dpi** | **color**
@@ -95,8 +93,6 @@ For more information about this collection, please contact: [univsusu@adep.or.jp
 
 ## References
 The Data Retrieval System of Analog Seismograms of some Japanese Academies. [https://www.adep.jp/](https://www.adep.jp/) *last accessed 20 January 2022*
-
-<!-- FYI: The old link (http://www.univsusu.adep.or.jp/) appears to be broken—please use the updated URL: https://www.adep.jp/ -->
 
 Matsu’ura, R. S., N. Umino, Y. Tamura, Y. Iio, M. Kasahara, and T. Ohkura (2020). The Achievement of Archiving Analog Seismograms in Japanese Institutes for 15 Yr, Seismol. Res. Lett., doi: 10.1785/0220190301.
 
