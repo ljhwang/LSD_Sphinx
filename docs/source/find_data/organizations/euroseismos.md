@@ -20,7 +20,6 @@ Currently 33 researchers from 29 countries are participating in the project.
 
 ## Stations
 300 seismic stations mostly in the Euro-Mediterranean region from 1895-1990. See also the station [list](http://storing.ingv.it/es_web/).
-
 [Partner countries:](http://storing.ingv.it/es_web/)
 
 
