@@ -19,7 +19,7 @@ Adina, V., Popa, M., Ionescu, C., and Paulescu, D. (2021). Building up a Seismic
 
 Alejandro, A. C. B., C. R. Hutt, A. T. Ringler, S. V. Moore, R. E. Anthony, D. C. Wilson (2018). The Albuquerque Seismological Lab WWSSN Film Chip Preservation Project. *Seismological Research Letters* 90 (1): 401–408. doi: https://doi.org/10.1785/0220180275. [WWSSN](../find_data/organizations/wwssn.md)
 
-Anonymous. HVO’s Pilot Project to Archive Legacy Seismic Data, https://hilo.hawaii.edu/depts/geology/documents/SeismicArchive.pdf. *Last accessed 10 February 2022* [HVO](../find_data/organizations/hawaii)
+Anonymous. HVO’s Pilot Project to Archive Legacy Seismic Data, https://hilo.hawaii.edu/depts/geology/documents/SeismicArchive.pdf. *Last accessed 10 February 2022*. [HVO](../find_data/organizations/hawaii)
 
 Archive INFP. http://archive.infp.ro/. *Last accessed 5 January 2022*. [Romania](../find_data/organizations/romania)
 
@@ -34,7 +34,7 @@ Batlló, Josep, Jose Antonio Jara, Maite Merino, Germán Solé, and Judith Unam
 Batlló, Josep, Antonio Villaseñor, Jose Antonio Jara, Maite Merino, Germán Solé, and Judith Unamuno (2021). Digital Preservation of Analogue Seismograms and Other Documents at
 Institut Cartogràfic i Geològic de Catalunya (ICGC), IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 101. [ICGC](../find_data/organizations/icgc)
 
-Birkenhauser, H.F. Chapter IX John Carroll University Observatory Cleveland, Ohio. http://www.eas.slu.edu/eqc/eqc_history/JSA25/JSA_chpt09.pdf [JCU](../find_data/stations/ohio)
+Birkenhauser, H.F. Chapter IX John Carroll University Observatory Cleveland, Ohio. http://www.eas.slu.edu/eqc/eqc_history/JSA25/JSA_chpt09.pdf. [JCU](../find_data/stations/ohio)
 
 Brodsky, E. & Kanamori, H. (2011). Scans of the Caltech Archives. http://ds.iris.edu/seismoarchives/projects/Caltech_Seismograms.htm (last accessed 26 April 2020). [SCSN](../find_data/organizations/SCSN)
 
@@ -43,7 +43,7 @@ of Analog Seismograms in China, Seismol. Res. Lett. 91, 2704–2718, doi: 10.178
 
 Custódio, Susana, Josep Batlló, Décio Martins, Fábio Antunes, João Narciso, Sara Carvalho, Vânia Lima, Fernando C. Lopes, Paulo Ribeiro, Reinoud Sleeman, E. Ivo Alves, Celeste R. Gomes; Station COI: Dusting Off an Old Seismic Station. Seismological Research Letters 2012;; 83 (5): 863–869. doi: https://doi.org/10.1785/0220120014 [COI](../find_data/stations/coimbra)
 
-The Data Retrieval System of Analog Seismograms of some Japanese Academies. [http://www.univsusu.adep.or.jp/](http://www.univsusu.adep.or.jp/) *last accessed 20 January 2022* [Japan-ADEP](../find_data/organizations/japan-adep)
+The Data Retrieval System of Analog Seismograms of some Japanese Academies. [http://www.univsusu.adep.or.jp/](http://www.univsusu.adep.or.jp/) *last accessed 15 August 2025*. [Japan-ADEP](../find_data/organizations/japan-adep)
 
 Department of Monitor and Prediction in China EarthquakeAdministration (CEA) (2005a). Album of Historical Seismograms
 Recorded in Early Chinese Seismographic Stations, Vol. 1, ShanghaiZikawei Seismographic Station (1906–1948), Earthquake Publish
@@ -98,7 +98,7 @@ Matsu’ura, R. S., N. Umino, Y. Tamura, Y. Iio, M. Kasahara, and T. Ohkura (202
 Molovichkko, A., Y. Vinogradov, P. Butyrin, and R. Dyagiliv (2021). Preservation and Digitization of Analog Soviet Peaceful Nuclear Explosion Seismograms, IAGA-IASPEI 2021, 21-27 August 2021, virtual, SR100. [Soviet Union](../find_data/monitoring/sovietunion)
 
 McCann, William R. Brief History of Seismic Recording in Puerto Rico. http://ds.iris.edu/seismo-archives/stations/puerto_rico/references/seismic-recording_history_Puerto_Rico/seismic-recording_history_Puerto_Rico.pdf
-*Last accessed 14 January 2022* [SJG, SJP, VQA](../find_data/stations/puerto_rico)
+*Last accessed 14 January 2022*. [SJG, SJP, VQA](../find_data/stations/puerto_rico)
 
 McComb, H.E. and C.J West (1931). List of Seismological Stations of the World, Bulletin of the National Research Council, 82, National Research Council, National Academy of Sciences, Washington D.C., 119pp.
 
@@ -111,7 +111,7 @@ Japan, Seismol. Res. Lett. 91, 1459–1468, doi: https://doi.org/10.1785/0220190
 Nemoto J. (1957). Brief history of Meteorological Society of Japan in the wartime, in Short History of the Meteorological Society of Japan in Commemoration of the 75th Anniversary , Meteorological Society of Japan, Tokyo, Japan, 69 pp. (in Japanese).
 Golden, S., L. S. Wagner, B. Schleigh, D. Power, D. C. Roman, S. I. Sacks, and H. Janiszewski (2020). Digitization of the Carnegie Analog Broadband Instruments Tape Records (1965–1996), *Seismol. Res. Lett.* 91, 1441–1451, doi: 10.1785/0220190334. [JMA](../find_data/organizations/jma)
 
-Okal, E. A. (2015). Historical seismograms: Preserving an endangered species. GeoResJ, 6, 53–64. doi: 10.1016/j.grj.2015.01.007 [BAT/DJA](../find_data/stations/batavia), [CGH/CTO/HER](../find_data/stations/capetown), [WES](../find_data/stations/weston), [MIZ](../find_data/organizations/japan-adep)
+Okal, E. A. (2015). Historical seismograms: Preserving an endangered species. GeoResJ, 6, 53–64. doi: 10.1016/j.grj.2015.01.007. [BAT/DJA](../find_data/stations/batavia), [CGH/CTO/HER](../find_data/stations/capetown), [WES](../find_data/stations/weston), [MIZ](../find_data/organizations/japan-adep)
 
 Ou, Qi. Scanned_Seismogram_Holdings_from_CapeTown_Hermanus_end_dates_changed_location,https://docs.google.com/spreadsheets/d/1pUyHyQMMIXvhO0XkS13FqvfHveVoEC_c/edit#gid=1991604385. *Last accessed 2022 February 10*. [CGH/CTO/HER](../find_data/stations/capetown)
 
@@ -126,16 +126,16 @@ Poppe, B. B., D. A. Naab, and J.S. Deer (1978). Seismographic Station Codes and 
 
 Ringler, A.T., Holland, J.F., Lee, T.A., and Kim, S., 2025, World-Wide Standardized Seismographic Network Film Chip Scans: U.S. Geological Survey data release, https://doi.org/10.5066/P13PHZMA. [WWSSN](../find_data/organizations/wwssn)
 
-Ringler, A. T., D. C. Wilson, E. Wolin, T. Storm, and L. Sandoval (2020). Calibration Analysis and Noise Estimates of WWSSN Station ALQ (Albuquerque, New Mexico). *Seismological Research Letters* 91 (3): 1359–1366. doi: https://doi.org/10.1785/0220190201 [WWSSN](../find_data/organizations/wwssn)
+Ringler, A. T., D. C. Wilson, E. Wolin, T. Storm, and L. Sandoval (2020). Calibration Analysis and Noise Estimates of WWSSN Station ALQ (Albuquerque, New Mexico). *Seismological Research Letters* 91 (3): 1359–1366. doi: https://doi.org/10.1785/0220190201. [WWSSN](../find_data/organizations/wwssn)
 
 Sacks, I. S. (1966). A Broad-band large dynamic range seismograph, in *The Earth beneath the Continents,* J. S. Steinhart and T. J. Smith (Editors), Geophysical Monograph, Vol. 10, American Geophysical Union, Washington, D.C., 543–553, doi: 10.1029/GM010p0543. [Carnegie](../find_data/organizations/carnegie)
 
 Satake, K., H. Tsuruoka, S. Murotani, and K. Tsumura (2020). Analog Seismogram Archives at the Earthquake Research Institute, the
 University of Tokyo, Seismol. Res. Lett. 91, 1384–1393, doi: 10.1785/0220190281. [ERI](../find_data/organizations/eri-u-tokyo)
 
-Saunders, Ian, Martin Brandt, Johan Steyn, Dale Roblin, Andrzej Kijko (2008). The South African National Seismograph Network. Seismological Research Letters; 79 (2): 203–210. doi: https://doi.org/10.1785/gssrl.79.2.203 [CGH/CTO/HER](../find_data/stations/capetown)
+Saunders, Ian, Martin Brandt, Johan Steyn, Dale Roblin, Andrzej Kijko (2008). The South African National Seismograph Network. Seismological Research Letters; 79 (2): 203–210. doi: https://doi.org/10.1785/gssrl.79.2.203. [CGH/CTO/HER](../find_data/stations/capetown)
 
-Saving and Studying the Seismograms of the Strongest Euro-Mediterranean Earthquakes, http://storing.ingv.it/es_web/. *Last accessed 8 February 2022*.[EuroSeismos](../find_data/organizations/euroseismos)
+Saving and Studying the Seismograms of the Strongest Euro-Mediterranean Earthquakes, http://storing.ingv.it/es_web/. *Last accessed 8 February 2022*. [EuroSeismos](../find_data/organizations/euroseismos)
 
 Seismo Archives. https://ds.iris.edu/seismo-archives/stations/puerto_rico/
 *Last accessed 14 January 2022*  [SJG, SJP, VQA](../find_data/stations/puerto_rico)
