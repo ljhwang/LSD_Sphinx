@@ -76,7 +76,7 @@ Full resolution seismograms are available upon request.
 Written documents have also been scanned at 300/400 dpi.
 
 Each institution is in charge of physical preservation. See also:
-* [Ebre Obesrvatory](https://www.icgc.cat/en/Thematic-areas/Risks-and-emergencies/Earthquakes/Seismic-information-and-maps-collections/Ebre-Observatory/Ebre-seismic-station-EBR/Search-available-analog-seismic-records-EBR-station)
+* [Ebre Observatory](https://www.icgc.cat/en/Thematic-areas/Risks-and-emergencies/Earthquakes/Seismic-information-and-maps-collections/Ebre-Observatory/Ebre-seismic-station-EBR/Search-available-analog-seismic-records-EBR-station)
 * [Fabra Observatory](https://www.icgc.cat/en/Thematic-areas/Risks-and-emergencies/Earthquakes/Seismic-information-and-maps-collections/Fabra-Observatory/Seismic-records-Observatori-Fabra/Search-available-analog-seismic-records-FBR-station)
 * [Seismic Bulletins 1984 - ](https://www.icgc.cat/en/Seismological-Bulletins)
 
