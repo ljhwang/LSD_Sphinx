@@ -72,8 +72,7 @@ In addition to the original analog seismograms, ERI maintains extensive archives
 
 **ERI**  
 Additional information about the microfilmed seismogram archives at the ERI can be obtained from the
-[Historical Seismogram Search System](http://wwweic.eri.u-tokyo.ac.jp/susu/index_en.html).
-
+[Historical Seismogram Search System](http://wwweic.eri.u-tokyo.ac.jp/susu/en/index.html).
 **Foreign Seismograms**  
 Access the list (station and date) of foreign seismograms available for:
   * [Taiwan](http://wwweic.eri.u-tokyo.ac.jp/record-W/taiwan-e.html). Includes station reports, meteorological data, seismic bulletins, and earthquake reports. Seismograms (pdf) of select Taiwan earthquakes recorded in Japan.
