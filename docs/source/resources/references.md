@@ -113,7 +113,7 @@ Golden, S., L. S. Wagner, B. Schleigh, D. Power, D. C. Roman, S. I. Sacks, and H
 
 Okal, E. A. (2015). Historical seismograms: Preserving an endangered species. GeoResJ, 6, 53–64. doi: 10.1016/j.grj.2015.01.007 [BAT/DJA](../find_data/stations/batavia), [CGH/CTO/HER](../find_data/stations/capetown), [WES](../find_data/stations/weston), [MIZ](../find_data/organizations/japan-adep)
 
-Ou, Qi.Scanned_Seismogram_Holdings_from_CapeTown_Hermanus_end_dates_changed_location,https://docs.google.com/spreadsheets/d/1pUyHyQMMIXvhO0XkS13FqvfHveVoEC_c/edit#gid=1991604385. *Last accessed 2022 February 10*. [CGH/CTO/HER](../find_data/stations/capetown)
+Ou, Qi. Scanned_Seismogram_Holdings_from_CapeTown_Hermanus_end_dates_changed_location,https://docs.google.com/spreadsheets/d/1pUyHyQMMIXvhO0XkS13FqvfHveVoEC_c/edit#gid=1991604385. *Last accessed 2022 February 10*. [CGH/CTO/HER](../find_data/stations/capetown)
 
 Paulescu, D., Rogozea, M., Popa, M. et al. (2016). Digitized Database of Old Seismograms Recorder in Romania. Acta Geophys. 64, 963–977. https://doi.org/10.1515/acgeo-2016-0039. [Romania](../find_data/organizations/romania)
 
@@ -123,6 +123,8 @@ http://dx.doi.org/10.3133/ofr20141218. [WWSSN](../find_data/organizations/wwssn)
 Pintore, S., Quintiliani, M. Franceschi, D. (2005). Teseo: A vectoriser of historical seismograms, Computers & Geosciences 31, p. 1277–1285. [EuroSeismos](../find_data/organizations/euroseismos)
 
 Poppe, B. B., D. A. Naab, and J.S. Deer (1978). Seismographic Station Codes and Characteristics. US Geological Survey Circular 791, 171 pp. [Japan-ADEP](../find_data/organizations/japan-adep)
+
+Ringler, A.T., Holland, J.F., Lee, T.A., and Kim, S., 2025, World-Wide Standardized Seismographic Network Film Chip Scans: U.S. Geological Survey data release, https://doi.org/10.5066/P13PHZMA. [WWSSN](../find_data/organizations/wwssn)
 
 Ringler, A. T., D. C. Wilson, E. Wolin, T. Storm, and L. Sandoval (2020). Calibration Analysis and Noise Estimates of WWSSN Station ALQ (Albuquerque, New Mexico). *Seismological Research Letters* 91 (3): 1359–1366. doi: https://doi.org/10.1785/0220190201 [WWSSN](../find_data/organizations/wwssn)
 
