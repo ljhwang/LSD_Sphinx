@@ -11,13 +11,13 @@ permalink           : "/resources/webresources/"
 
 ![some dummy txt](../images/folds.png)
 
-# FOLDS - Federation of Online Legacay Data in Seismology
+# FOLDS - Federation of Online Legacy Data in Seismology
 
 ## Background
 Proposed metadata fields for standardizing metadata needed to support an internationally coordinated
 collection system of digital legacy seismic data elements generated from analog
 recordings. These standards
-will make easier the work of those at collection centers creating the metadata and
+will make easier the work of those at the collection centers, creating the metadata and
 at data centers that manage metadata and corresponding legacy data. However, to
 manage the level of effort required for data collection centers to participate,
 enough metadata is required to make legacy data Findable, Accessible,
@@ -25,7 +25,7 @@ Interoperable and Reusable (FAIR).
 
 
 ## Specification
-Below is the recommended specifications by the WG2 of the FDSN (2022) proposed by Tim Ahern et al.
+Below are the recommended specifications by the WG2 of the FDSN (2022) proposed by Tim Ahern et al.
 
 See also [[pdf](https://www.fdsn.org/media/wg/II/2023/WG2-2023-LegacyData-Ahern.pdf)].
 
