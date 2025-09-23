@@ -93,7 +93,7 @@ For more information about this collection, please contact: [univsusu@adep.or.jp
 
 ## References
 
-The Data Retrieval System of Analog Seismograms of some Japanese Academies. [http://www.univsusu.adep.or.jp/](http://www.univsusu.adep.or.jp/) *last accessed 15 August 2025*
+The Data Retrieval System of Analog Seismograms of some Japanese Academies. [http://www.univsusu.adep.or.jp/](http://www.univsusu.adep.or.jp/) 
 
 Matsu’ura, R. S., N. Umino, Y. Tamura, Y. Iio, M. Kasahara, and T. Ohkura (2020). The Achievement of Archiving Analog Seismograms in Japanese Institutes for 15 Yr, Seismol. Res. Lett., doi: 10.1785/0220190301.
 
