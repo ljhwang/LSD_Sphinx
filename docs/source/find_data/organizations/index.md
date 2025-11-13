@@ -20,6 +20,7 @@ cvo.md
 eri-u-tokyo.md
 euroseismos.md
 hawaii.md
+IAG-USaoPaulo.md
 icgc.md
 IES-u-Iceland.md
 jma.md
