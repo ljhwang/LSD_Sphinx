@@ -142,6 +142,8 @@ Seismo Archives. https://ds.iris.edu/seismo-archives/stations/puerto_rico/
 
 SISMOS, http://sismos.rm.ingv.it/index.php. *Last accessed 9 February 2022*. [EuroSeismos](../find_data/organizations/euroseismos)
 
+Max Suter; Early Macroseismic Intensity Observations, Isoseismal Maps, and Instrumental Recordings of Earthquakes in Mexico (1888–1934): A Review. Seismological Research Letters 2025; doi: https://doi.org/10.1785/0220250157
+
 Wang, J (2020). Conservation and Utilization of Historical Seismograms from Early Stage (A.D.
 1904–1948), Mainland China, Seismol. Res. Lett. 91, 1394–1402, doi: 10.1785/0220190268. [China](../find_data/organizations/china)
 
