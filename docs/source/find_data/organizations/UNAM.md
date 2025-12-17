@@ -48,7 +48,7 @@ Early instruments:
 Late 1960s:  
 * Electromagnetic vertical short-period
 
-
+See also Suter (2025).
 
 ## Recording Medium
 paper
@@ -78,6 +78,9 @@ Unitarios de Toda la Universidad Nacional Autónoma de México
 (UNAM) en Línea (PAPROTUL), Project TUL_1380.
 
 ## References
+
+Max Suter; Early Macroseismic Intensity Observations, Isoseismal Maps, and Instrumental Recordings of Earthquakes in Mexico (1888–1934): A Review. Seismological Research Letters 2025; doi: https://doi.org/10.1785/0220250157
+
 Xyoli Pérez‐Campos, Saul Armendáriz‐Sánchez, Víctor H. Espíndola, Minerva Castro‐Escamilla, Jesus Perez, Luis Manuel Casiano, Ivan Rodriguez Rasilla, Caridad Cárdenas Monroy, Arturo Cárdenas (2020). Preservation and Reuse of Historical Seismic Data in Mexico: SISMOMex and the Online “National Seismogram Library”. Seismological Research Letters; 91 (3): 1482–1487. doi: https://doi.org/10.1785/0220190340
 
 Sismoteca Nacional en Linea, Universidad Nacional Autonama de Mexico, http://www.sismoteca.unam.mx/base/. *Last accessed 4 January 2022.*
