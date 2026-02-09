@@ -27,7 +27,13 @@ Interoperable and Reusable (FAIR).
 ## Specification
 Below are the recommended specifications by the WG2 of the FDSN (2022) proposed by Tim Ahern et al.
 
-See also [[pdf](https://www.fdsn.org/media/wg/II/2023/WG2-2023-LegacyData-Ahern.pdf)].
+Please cite FOLDS as follows:
+
+Ahern, T., Hwang, L., Engdahl, E. R., Batlló, J., & Sokolova, I. (2022). FDSN Metadata Standard for Legacy Seismic Data (1.0). Zenodo.
+[https://doi.org/10.5281/zenodo.16921625](https://doi.org/10.5281/zenodo.16921625)
+
+
+See also [[pdf](https://www.fdsn.org/media/wg/II/2023/WG2-2023-LegacyData-Ahern.pdf)] [[SnT 2025](https://conferences.ctbto.org/event/30/contributions/5755/attachments/2749/5196/P2.4-145_Ahern.pdf)].
 
 **Metadata** | **Element (56)** | **Description** | **Req** | **Rec** | **Opt** |
 :--- | :--- | :--- | :---: | :---: | :---: | 
